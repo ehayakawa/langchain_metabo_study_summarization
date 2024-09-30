@@ -1,0 +1,34 @@
+# 環境変数ファイル
+.env
+
+main_bkup.py
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 仮想環境
+venv/
+env/
+ENV/
+
+# IDEの設定ファイル
+.vscode/
+.idea/
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# プロジェクト固有のファイル/ディレクトリ
+samples/
+cleaned_samples/
+structured_results.json
+
+# ログファイル
+*.log
+
+# テンポラリファイル
+*.tmp
